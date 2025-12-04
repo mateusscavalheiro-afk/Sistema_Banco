@@ -9,7 +9,7 @@ public class ContaBanco {
     private int saldo;
     private boolean status;
 
-    //métodos costrutores
+    //métodos construtores
     public ContaBanco() {
         this.saldo = 0;
         this.status = false;
@@ -193,3 +193,4 @@ public class ContaBanco {
         }
     }
 }
+
