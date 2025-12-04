@@ -78,7 +78,6 @@ public class ContaBanco {
             System.out.println("Seu número de conta é: " + this.numConta);
             System.out.println("Conta aberta com sucesso!\n");
             this.status = true;
-            scanner.close();
         }
     }
 
@@ -180,3 +179,4 @@ public class ContaBanco {
         }
     }
 }
+
